@@ -38,9 +38,11 @@
         ===============================================================================    
 
 6. What is the purpose of including multiple `<source>` elements within a single `<video>` element?
+
         ===============================================================================
-        >
+        >The source element specifies as many media resources for the pictures, the audio elements, or the video elements as you want, depending on what you want to do.
         ===============================================================================
+        
 7. Use webpack to bundle all the files in the following project: https://github.com/Swolebrain/connect4  
   Setup Steps:
 
